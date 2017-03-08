@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">BBS_APP</string>
+
+    <string name="form_ButtonNext">Selanjutnya</string>
+    <string name="form_ButtonPrev">Kembali</string>
+    <string name="form_ButtonSend">Kirim</string>
+    <string name="form_ButtonEnd">Selesai</string>
+    <string name="form0_1">INSTRUKSI</string>
+    <string name="form0_2">1. Isi data area, tanggal &amp; waktu saat melakukan coaching</string>
+    <string name="form0_3">2. Cantumkan nama dan visa dari coachee</string>
+    <string name="form0_4">Bila perilaku yang diamati merupakan perilaku TIDAK AMAN :</string>
+    <string name="form0_5">1. Pilih / tuliskan perilaku yang berhubungan dengan keselamatan dan kesehatan kerja (K3).</string>
+    <string name="form0_6">2. Tuliskan potensial resiko yang mungkin terjadi dari perilaku tersebut.</string>
+    <string name="form0_7">3. Pilih/tuliskan penyebab dari perilaku ini.</string>
+    <string name="form0_8">4. Tuliskan rekomendasi untuk mencegah hal ini terulang kembali.</string>
+
+    <string name="form1_1">Harap Isi Form Berikut Sesuai dengan Aturan</string>
+    <string name="form1_2">No &amp; Nama</string>
+    <string name="form1_3">Departemen</string>
+    <string name="form1_4">Observed Area</string>
+    <string name="form1_5">Observed Date</string>
+    <string name="form1_6">Observation Category</string>
+
+    <string name="form2_1">Hasil Observasi</string>
+    <string name="form2_2">Risk Category</string>
+    <string name="form2_3">Keselamatan Berkendara</string>
+    <string name="form2_4">PPE / APD</string>
+    <string name="form2_5">Kewenangan</string>
+    <string name="form2_6">Izin Kerja</string>
+    <string name="form2_7">LOTO</string>
+    <string name="form2_8">Benda Berputar</string>
+    <string name="form2_9">Bekerja di Ketinggian</string>
+    <string name="form2_10">Pembatas Tangga</string>
+    <string name="form2_11">Jalur Pejalan Kaki</string>
+    <string name="form2_12">Hand Phone (HP)</string>
+    <string name="form2_13">Interlock</string>
+    <string name="form2_14">Forklift</string>
+    <string name="form2_15">Permukaan Panas</string>
+    <string name="form2_16">Ruang Terbatas</string>
+    <string name="form2_17">Kelistrikan</string>
+    <string name="form2_18">Peralatan Tidak Memadai</string>
+    <string name="form2_19">Licin</string>
+    <string name="form2_20">Material Tajam</string>
+    <string name="form2_21">Bahaya Kebakaran</string>
+    <string name="form2_22">Bahan Kimia</string>
+    <string name="form2_23">Bahaya Ledakan</string>
+    <string name="form2_24">Ergonomi</string>
+    <string name="form2_25">Lain-lain</string>
+    <string name="form2_26">Kebisingan</string>
+    <string name="form2_27">Environment - Air</string>
+    <string name="form2_28">Environment - Energi</string>
+    <string name="form2_29">Environment - Limbah</string>
+    <string name="form2_30">Environment - Emisi Udara</string>
+
+    <string name="form3_1">Tolong Pastikan Data di Bawah Ini Sudah Terisi dengan Benar</string>
+    <string name="form4_1">Terimakasih atas Kontribusi Anda</string>
+
+    <string name="form_notFilled">Harap Lengkapi Form di Atas</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_aktivasi">Aktifasi Akun</string>
+    <string name="title_activity_main">BBS Application</string>
+    <string name="title_activity_form">BBS Report</string>
+
+    <string name="login_1">Silahkan Masukan No. Pegawai dan Password (3 &#8211; 16 Karakter)</string>
+    <string name="login_2">Nomor Pegawai</string>
+    <string name="login_3">Password</string>
+    <string name="login_4">Verifikasi Password</string>
+    <string name="login_5">Password Baru</string>
+    <string name="login_buttonLogin">Masuk</string>
+    <string name="login_buttonAktifasi">Aktifkan Akun</string>
+
+    <string name="start_1">Login</string>
+    <string name="start_2">Aktifasi Akun</string>
+
+</resources>

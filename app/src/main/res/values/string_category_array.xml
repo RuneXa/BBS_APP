@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="risk_category">
+        <item>Keselamatan Berkendara</item>
+        <item>PPE / APD</item>
+        <item>Kewenangan</item>
+        <item>Izin Kerja</item>
+        <item>LOTO</item>
+        <item>Benda Berputar</item>
+        <item>Bekerja di Ketinggian</item>
+        <item>Pembatas Tangga</item>
+        <item>Jalur Pejalan Kaki</item>
+        <item>Hand Phone (HP)</item>
+        <item>Interlock</item>
+        <item>Forklift</item>
+        <item>Permukaan Panas</item>
+        <item>Ruang Terbatas</item>
+        <item>Kelistrikan</item>
+        <item>Peralatan Tidak Memadai</item>
+        <item>Licin</item>
+        <item>Material Tajam</item>
+        <item>Bahaya Kebakaran</item>
+        <item>Bahan Kimia</item>
+        <item>Bahaya Ledakan</item>
+        <item>Ergonomi</item>
+        <item>Lain-lain</item>
+        <item>Kebisingan</item>
+        <item>Environment - Air</item>
+        <item>Environment - Energi</item>
+        <item>Environment - Limbah</item>
+        <item>Environment - Emisi Udara</item>
+    </string-array>
+
+    <string-array name="area_observed">
+        <item>HR - Motor Parking Area</item>
+        <item>HR - Car Parking Area</item>
+        <item>HR - Truck Parking Area</item>
+        <item>HR - Social Block</item>
+        <item>HR - Garden</item>
+        <item>HR - Resto</item>
+        <item>HR - Meeting Rooms</item>
+        <item>General Office</item>
+        <item>PROD - Dry Mix</item>
+        <item>PROD - POLO</item>
+        <item>PROD - Extrusion</item>
+        <item>PROD - FOX\'s</item>
+        <item>WH - FG</item>
+        <item>WH - Pack Material</item>
+        <item>WH - Raw Material</item>
+        <item>ENG - IS</item>
+        <item>ENG - WS &amp; Tech Store</item>
+        <item>ENG - WWTP</item>
+        <item>ENG - Scrap Area</item>
+        <item>ENG - Contractor Area</item>
+        <item>QA - Lab Kimia</item>
+        <item>QA - Lab Micro</item>
+        <item>QA - Office</item>
+        <item>AG</item>
+    </string-array>
+
+    <string-array name="obs_category">
+        <item>Unsafe Behavior</item>
+        <item>Unsafe Condition</item>
+        <item>Positive Observation</item>
+    </string-array>
+</resources>
